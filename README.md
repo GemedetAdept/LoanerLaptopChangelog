@@ -1,5 +1,7 @@
 # Loaner Laptop Program/Device Changelog
 
+Changelog of added applications to loaned laptop.
+
 ## Loan Details
 
 |               |                |
