@@ -15,3 +15,15 @@ Changelog of added applications to loaned laptop.
 |               |                |
 
 ## Application Changelog
+
++ KeePass
+	\- 2022-10-07 21:17
+	\- Local password storage.
+
++ Blender
+	\- 2022-10-07 21:30
+	\- Open-source 3D modeling program.
+
++ OpenVPN Portable
+	\- 2022-10-07 21:33
+	\- Note: Downloaded and then transfered to USB.
