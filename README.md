@@ -17,24 +17,34 @@ Changelog of added applications to loaned laptop.
 ## Application Changelog
 
 2022-10-13:
+
 	+ Calibre Library
-		Open-source e-book manager/viewer/converter.
+		- Open-source e-book manager/viewer/converter.
+
 	+ ShareX
-		Screen capture/recording and tools.
+		- Screen capture/recording and tools.
+
 	+ SublimeText
-		Programming-oriented text editor.
+		- Programming-oriented text editor.
+
 	+ foobar2000
-		Open-source music player.
+		- Open-source music player.
+
 	+ AutoHotkey
 		- Custom hotkey creation and execution.
+
 	+ Proton VPN
 		- Virtual Private Network.
+
 	+ SumatraPDF
 		- PDF viewer.
+
 	+ Blender
 		- Open-source 3D modeling program.
+
 	+ f.lux
 		- Screen brightness/blue-light reducer.
+
 
 ## Misc. Changelog
 
