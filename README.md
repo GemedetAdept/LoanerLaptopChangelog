@@ -20,25 +20,16 @@ Changelog of added applications to loaned laptop.
 
 	+ Calibre Library
 		- Open-source e-book manager/viewer/converter.
-<<<<<<< HEAD
+		
 	+ ShareX
 		- Screen capture/recording and tools.
+		
 	+ SublimeText
 		- Programming-oriented text editor.
+		
 	+ foobar2000
 		- Open-source music player.
-=======
-
-	+ ShareX
-		- Screen capture/recording and tools.
-
-	+ SublimeText
-		- Programming-oriented text editor.
-
-	+ foobar2000
-		- Open-source music player.
-
->>>>>>> fbcdaf7415cc95875c23f4c43270d99f0cb3ac6f
+		
 	+ AutoHotkey
 		- Custom hotkey creation and execution.
 
@@ -54,12 +45,10 @@ Changelog of added applications to loaned laptop.
 	+ f.lux
 		- Screen brightness/blue-light reducer.
 
-<<<<<<< HEAD
 2022-11-06:
+
 	+ GnuWin32.Wget
 		- Command-line package to download files from web servers.
-=======
->>>>>>> fbcdaf7415cc95875c23f4c43270d99f0cb3ac6f
 
 ## Misc. Changelog
 
