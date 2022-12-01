@@ -57,6 +57,7 @@ Changelog of added applications to loaned laptop.
 	
 	+ AsciiDots Language
 		- Esoteric programming language based on ASCII art.
+		* Installed via `pip install asciidots`
 
 ## Misc. Changelog
 
