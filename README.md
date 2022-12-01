@@ -47,8 +47,16 @@ Changelog of added applications to loaned laptop.
 
 2022-11-06:
 
+	+ Vim
+		- Open-source, screen-based text editor.
+
 	+ GnuWin32.Wget
 		- Command-line package to download files from web servers.
+
+2022-12-01:
+	
+	+ AsciiDots Language
+		- Esoteric programming language based on ASCII art.
 
 ## Misc. Changelog
 
