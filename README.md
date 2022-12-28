@@ -59,6 +59,12 @@ Changelog of added applications to loaned laptop.
 		- Esoteric programming language based on ASCII art.
 		* Installed via `pip install asciidots`
 
+2022-12-27:
+
+	+ MinGW
+		- Builder/Compiler for Objective C, C++, FORTRAN, and ADA.
+
+
 ## Misc. Changelog
 
 2022-10-13:
