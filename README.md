@@ -53,6 +53,11 @@ Changelog of added applications to loaned laptop.
 	+ GnuWin32.Wget
 		- Command-line package to download files from web servers.
 
+2022-11-13:
+	
+	+ Discord
+		- Text and voice messaging program.
+
 2022-12-01:
 	
 	+ AsciiDots Language
@@ -64,6 +69,24 @@ Changelog of added applications to loaned laptop.
 	+ MinGW
 		- Builder/Compiler for Objective C, C++, FORTRAN, and ADA.
 
+2023-01-06:
+	
+	+ Joplin
+		- Open-source note taking and organizing software.
+
+2023-01-11:
+	
+	+ Google Earth
+
+2023-03-03:
+
+	+ Trello
+		- Kanban-style project organizer and manager.
+
+2023-03-07:
+	
+	+ MSYS2
+		- Additional software needed for integrating MinGW FORTRAN compiling into an IDE.
 
 ## Misc. Changelog
 
