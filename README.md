@@ -88,6 +88,11 @@ Changelog of added applications to loaned laptop.
 	+ MSYS2
 		- Additional software needed for integrating MinGW FORTRAN compiling into an IDE.
 
+2023-03-28:
+	
+	+ ExifTool
+		- Verbose file metadata viewer and editor.
+
 ## Misc. Changelog
 
 2022-10-13:
