@@ -93,6 +93,9 @@ Changelog of added applications to loaned laptop.
 	+ ExifTool
 		- Verbose file metadata viewer and editor.
 
+	+ EML Opener [Microsoft Store]
+		- Software to view .eml email backup files.
+
 ## Misc. Changelog
 
 2022-10-13:
