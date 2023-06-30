@@ -96,6 +96,11 @@ Changelog of added applications to loaned laptop.
 	+ EML Opener [Microsoft Store]
 		- Software to view .eml email backup files.
 
+2023-06-30:
+	
+	+ HelloWorld
+		- Simple "Hello World" program made using WPF, compiled, and then installed — learning how to use WPF.
+
 ## Misc. Changelog
 
 2022-10-13:
